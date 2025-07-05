@@ -1,0 +1,8 @@
+/* your-hexo/source/css/font.css */
+
+@font-face {
+   font-family: 'CangErJinKai04-W04';
+   src: url('../font/webfont/custom-font.ttf') format('truetype');
+   font-weight: normal;
+   font-style: normal;
+}
