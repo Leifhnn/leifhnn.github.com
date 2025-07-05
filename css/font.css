@@ -2,7 +2,14 @@
 
 @font-face {
    font-family: 'CangErJinKai04-W04';
-   src: url('../font/webfont/custom-font.ttf') format('truetype');
+   src: url('../font/CangErJinKai04-W04.ttf') format('truetype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'CangErJinKai03-W04';
+   src: url('../font/CangErJinKai03-W04.ttf') format('truetype');
    font-weight: normal;
    font-style: normal;
 }
